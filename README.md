@@ -82,7 +82,6 @@ country-clustering-analysis/
 │   ├── countries_by_cluster.csv
 │   └── normalized_means.csv
 │
-├── .venv/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
