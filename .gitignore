@@ -1,6 +1,39 @@
-__pycache__/
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebooks
 .ipynb_checkpoints/
-*.py[cod]
-.vscode/
-.env
-.DS_Store
+*.ipynb
+!*.ipynb
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
