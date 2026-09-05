@@ -1,0 +1,14 @@
+# Jupyter Notebooks as Python
+*.ipynb linguist-language=Python
+
+# Hide large data files from language stats
+*.csv linguist-vendored
+*.json linguist-vendored
+*.pdf linguist-vendored
+*.html linguist-vendored
+*.htm linguist-vendored
+
+# Mark images as generated
+*.png linguist-generated
+*.jpg linguist-generated
+*.svg linguist-generated
