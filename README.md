@@ -159,9 +159,14 @@ jupyter notebook
 
 A comprehensive **25-page PDF report** is available:
 
-**[View Full Report](reports/final/Report.pdf)**
+[![Download PDF](https://img.shields.io/badge/📥-Download%20Report-red?style=for-the-badge&logo=adobeacrobatreader)](reports/final/Report.pdf)
 
-Includes all figures, tables, methodology, and policy recommendations.
+| Format | Link |
+|:---|:---|
+| **PDF Report** | [📥 Download PDF](reports/final/Report.pdf) |
+| **Jupyter Notebook** | [📓 View Notebook](notebooks/03_Report.ipynb) |
+
+> **Note:** PDF files cannot be previewed directly on GitHub. Please download the file to view it.
 
 ---
 
