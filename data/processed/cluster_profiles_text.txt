@@ -1,0 +1,93 @@
+====================================================================================================
+📊 CLUSTER PROFILES - COMPLETE SUMMARY
+====================================================================================================
+
+📋 CLUSTER PROFILES - ALL FEATURES
+====================================================================================================
+ Cluster         Profile  Size child_mort life_expec  income    gdpp total_fer exports imports health inflation
+       0 Low-Development    41       32.3       69.2  $7,958  $3,917      2.86   42.4%   53.9%   6.35      7.8%
+       1       Developed    31        5.7       79.7 $32,959 $35,055      1.75   36.1%   36.4%   9.96      2.1%
+       2        CRISIS 🔴    44       94.1       59.9  $2,170    $952      4.97   23.8%   41.5%   6.28     11.6%
+       3       Trade Hub    27        8.1       76.7 $28,415 $20,607      1.71   77.5%   76.9%   6.74      2.5%
+       4   Stabilization    24       22.1       73.8 $27,186 $13,309      2.33   36.3%   24.6%   4.62     14.0%
+
+====================================================================================================
+📊 KEY INDICATORS SUMMARY
+====================================================================================================
+
+================================================================================
+Cluster 0: Low-Development (41 countries)
+================================================================================
+  • Child Mortality: 32.3 per 1000
+  • Life Expectancy: 69.2 years
+  • Income: $7,958
+  • GDP per capita: $3,917
+  • Total Fertility: 2.86 births per woman
+  • Exports: 42.4% of GDP
+  • Imports: 53.9% of GDP
+  • Health Expenditure: 6.35 per capita
+  • Inflation: 7.8%
+
+================================================================================
+Cluster 1: Developed (31 countries)
+================================================================================
+  • Child Mortality: 5.7 per 1000
+  • Life Expectancy: 79.7 years
+  • Income: $32,959
+  • GDP per capita: $35,055
+  • Total Fertility: 1.75 births per woman
+  • Exports: 36.1% of GDP
+  • Imports: 36.4% of GDP
+  • Health Expenditure: 9.96 per capita
+  • Inflation: 2.1%
+
+================================================================================
+Cluster 2: CRISIS 🔴 (44 countries)
+================================================================================
+  • Child Mortality: 94.1 per 1000
+  • Life Expectancy: 59.9 years
+  • Income: $2,170
+  • GDP per capita: $952
+  • Total Fertility: 4.97 births per woman
+  • Exports: 23.8% of GDP
+  • Imports: 41.5% of GDP
+  • Health Expenditure: 6.28 per capita
+  • Inflation: 11.6%
+
+================================================================================
+Cluster 3: Trade Hub (27 countries)
+================================================================================
+  • Child Mortality: 8.1 per 1000
+  • Life Expectancy: 76.7 years
+  • Income: $28,415
+  • GDP per capita: $20,607
+  • Total Fertility: 1.71 births per woman
+  • Exports: 77.5% of GDP
+  • Imports: 76.9% of GDP
+  • Health Expenditure: 6.74 per capita
+  • Inflation: 2.5%
+
+================================================================================
+Cluster 4: Stabilization (24 countries)
+================================================================================
+  • Child Mortality: 22.1 per 1000
+  • Life Expectancy: 73.8 years
+  • Income: $27,186
+  • GDP per capita: $13,309
+  • Total Fertility: 2.33 births per woman
+  • Exports: 36.3% of GDP
+  • Imports: 24.6% of GDP
+  • Health Expenditure: 4.62 per capita
+  • Inflation: 14.0%
+
+====================================================================================================
+📝 MARKDOWN-READY TABLE
+====================================================================================================
+
+| Cluster | Profile | Size | Child Mort. | Life Exp. | Income | GDP | Fertility |
+|---------|---------|------|-------------|-----------|---------|-----|-----------|
+| 0 | Low-Development | 41 | 32.3 | 69.2 | $7,958 | $3,917 | 2.86 |
+| 1 | Developed | 31 | 5.7 | 79.7 | $32,959 | $35,055 | 1.75 |
+| 2 | CRISIS 🔴 | 44 | 94.1 | 59.9 | $2,170 | $952 | 4.97 |
+| 3 | Trade Hub | 27 | 8.1 | 76.7 | $28,415 | $20,607 | 1.71 |
+| 4 | Stabilization | 24 | 22.1 | 73.8 | $27,186 | $13,309 | 2.33 |

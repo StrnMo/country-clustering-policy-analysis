@@ -1,0 +1,240 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    table {border-collapse: collapse; width: 100%; font-family: Arial, sans-serif;}
+    th {background-color: #2E86AB; color: white; padding: 12px; text-align: left; border: 1px solid #ddd;}
+    td {padding: 10px; border: 1px solid #ddd; text-align: left;}
+    tr:nth-child(even) {background-color: #f2f2f2;}
+    tr:hover {background-color: #ddd;}
+    .section {background-color: #f8f9fa; padding: 15px; margin: 20px 0; border-radius: 5px;}
+    h2 {color: #2E86AB; border-bottom: 2px solid #2E86AB; padding-bottom: 10px;}
+</style>
+</head>
+<body>
+
+<div class="section">
+<h2>Table 1: Cluster Centroids - Average Values by Indicator</h2>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>child_mort</th>
+      <th>income</th>
+      <th>gdpp</th>
+      <th>life_expec</th>
+      <th>inflation</th>
+      <th>total_fer</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Upper-Middle Development Profile</th>
+      <td>16.8</td>
+      <td>13869</td>
+      <td>8340</td>
+      <td>73.6</td>
+      <td>3.92</td>
+      <td>2.11</td>
+    </tr>
+    <tr>
+      <th>Low Development Profile</th>
+      <td>96.8</td>
+      <td>3500</td>
+      <td>1768</td>
+      <td>58.5</td>
+      <td>11.56</td>
+      <td>5.09</td>
+    </tr>
+    <tr>
+      <th>Trade-Oriented High-Income Economies</th>
+      <td>7.6</td>
+      <td>66260</td>
+      <td>44050</td>
+      <td>78.8</td>
+      <td>7.46</td>
+      <td>1.92</td>
+    </tr>
+    <tr>
+      <th>Lower-Middle Development Profile</th>
+      <td>33.3</td>
+      <td>10628</td>
+      <td>4972</td>
+      <td>71.2</td>
+      <td>13.38</td>
+      <td>2.76</td>
+    </tr>
+    <tr>
+      <th>Advanced High-Income Economies</th>
+      <td>4.3</td>
+      <td>40018</td>
+      <td>45268</td>
+      <td>80.9</td>
+      <td>1.54</td>
+      <td>1.80</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div class="section">
+<h2>Table 2: Summary Statistics by Cluster</h2>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Cluster</th>
+      <th>Count</th>
+      <th>Income_Mean</th>
+      <th>Income_Std</th>
+      <th>GDP_Mean</th>
+      <th>GDP_Std</th>
+      <th>LifeExp_Mean</th>
+      <th>LifeExp_Std</th>
+      <th>ChildMort_Mean</th>
+      <th>ChildMort_Std</th>
+      <th>Inflation_Mean</th>
+      <th>Inflation_Std</th>
+      <th>Fertility_Mean</th>
+      <th>Fertility_Std</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>Upper-Middle Development Profile</td>
+      <td>57</td>
+      <td>13869.0</td>
+      <td>8000.0</td>
+      <td>8340.0</td>
+      <td>6699.0</td>
+      <td>73.6</td>
+      <td>4.3</td>
+      <td>16.8</td>
+      <td>11.9</td>
+      <td>3.92</td>
+      <td>4.05</td>
+      <td>2.11</td>
+      <td>0.74</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Low Development Profile</td>
+      <td>42</td>
+      <td>3500.0</td>
+      <td>5502.0</td>
+      <td>1768.0</td>
+      <td>2899.0</td>
+      <td>58.5</td>
+      <td>6.4</td>
+      <td>96.8</td>
+      <td>32.7</td>
+      <td>11.56</td>
+      <td>16.29</td>
+      <td>5.09</td>
+      <td>1.07</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Trade-Oriented High-Income Economies</td>
+      <td>10</td>
+      <td>66260.0</td>
+      <td>28729.0</td>
+      <td>44050.0</td>
+      <td>26470.0</td>
+      <td>78.8</td>
+      <td>2.4</td>
+      <td>7.6</td>
+      <td>3.3</td>
+      <td>7.46</td>
+      <td>6.58</td>
+      <td>1.92</td>
+      <td>0.49</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Lower-Middle Development Profile</td>
+      <td>36</td>
+      <td>10628.0</td>
+      <td>8244.0</td>
+      <td>4972.0</td>
+      <td>4274.0</td>
+      <td>71.2</td>
+      <td>4.3</td>
+      <td>33.3</td>
+      <td>18.8</td>
+      <td>13.38</td>
+      <td>9.04</td>
+      <td>2.76</td>
+      <td>0.85</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Advanced High-Income Economies</td>
+      <td>22</td>
+      <td>40018.0</td>
+      <td>8359.0</td>
+      <td>45268.0</td>
+      <td>14734.0</td>
+      <td>80.9</td>
+      <td>1.0</td>
+      <td>4.3</td>
+      <td>1.1</td>
+      <td>1.54</td>
+      <td>1.78</td>
+      <td>1.8</td>
+      <td>0.39</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div class="section">
+<h2>Table 3: Countries by Cluster</h2>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Cluster</th>
+      <th>Number_of_Countries</th>
+      <th>Countries</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>Upper-Middle Development Profile</td>
+      <td>57</td>
+      <td>Albania, Antigua and Barbuda, Bahamas, Barbados, Belarus, Belize, Bhutan, Bosnia and Herzegovina, Bulgaria, Cambodia, Cape Verde, Chile, Costa Rica, Croatia, Cyprus, Czech Republic, El Salvador, Estonia, Fiji, Georgia, Grenada, Guyana, Hungary, Jordan, Kyrgyz Republic, Latvia, Lebanon, Libya, Lithuania, Macedonia, FYR, Malaysia, Maldives, Mauritius, Micronesia, Fed. Sts., Moldova, Montenegro, Morocco, Panama, Paraguay, Poland, Romania, Samoa, Serbia, Seychelles, Slovak Republic, Slovenia, Solomon Islands, South Korea, St. Vincent and the Grenadines, Suriname, Thailand, Tunisia, Turkmenistan, Ukraine, Uruguay, Vanuatu, Vietnam</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Low Development Profile</td>
+      <td>42</td>
+      <td>Afghanistan, Angola, Benin, Botswana, Burkina Faso, Burundi, Cameroon, Central African Republic, Chad, Comoros, Congo, Dem. Rep., Congo, Rep., Cote d'Ivoire, Equatorial Guinea, Gambia, Ghana, Guinea, Guinea-Bissau, Haiti, Kenya, Kiribati, Lao, Lesotho, Liberia, Madagascar, Malawi, Mali, Mauritania, Mozambique, Namibia, Niger, Nigeria, Rwanda, Senegal, Sierra Leone, South Africa, Sudan, Tanzania, Timor-Leste, Togo, Uganda, Zambia</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Trade-Oriented High-Income Economies</td>
+      <td>10</td>
+      <td>Bahrain, Brunei, Ireland, Kuwait, Luxembourg, Malta, Oman, Qatar, Singapore, United Arab Emirates</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Lower-Middle Development Profile</td>
+      <td>36</td>
+      <td>Algeria, Argentina, Armenia, Azerbaijan, Bangladesh, Bolivia, Brazil, China, Colombia, Dominican Republic, Ecuador, Egypt, Eritrea, Gabon, Guatemala, India, Indonesia, Iran, Iraq, Jamaica, Kazakhstan, Mongolia, Myanmar, Nepal, Pakistan, Peru, Philippines, Russia, Saudi Arabia, Sri Lanka, Tajikistan, Tonga, Turkey, Uzbekistan, Venezuela, Yemen</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Advanced High-Income Economies</td>
+      <td>22</td>
+      <td>Australia, Austria, Belgium, Canada, Denmark, Finland, France, Germany, Greece, Iceland, Israel, Italy, Japan, Netherlands, New Zealand, Norway, Portugal, Spain, Sweden, Switzerland, United Kingdom, United States</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+</body>
+</html>

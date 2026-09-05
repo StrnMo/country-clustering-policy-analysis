@@ -1,0 +1,6 @@
+Cluster_ID,Cluster_Name,Short_Name,Countries,Country_Share_%,Priority,Budget_Share,Budget_%,Total_Budget_USD,Total_Budget_M_USD,Per_Country_USD,Color
+0,Intermediate Development Profile,Intermediate Development,41,24.55,High,0.25,25.0,250000000.0,250.0,6097560.98,#E74C3C
+1,High Development Profile,High Development,31,18.56,Very Low,0.02,2.0,20000000.0,20.0,645161.29,#2ECC71
+2,High Development Vulnerability,High Development Vulnerability,44,26.35,Very High,0.45,45.0,450000000.0,450.0,10227272.73,#C0392B
+3,Trade-Intensive Development Profile,Trade-Intensive,27,16.17,Medium,0.08,8.0,80000000.0,80.0,2962962.96,#3498DB
+4,Higher-Inflation Development Profile,Higher Inflation,24,14.37,High,0.2,20.0,200000000.0,200.0,8333333.33,#F39C12

@@ -1,0 +1,6 @@
+cluster,Countries,Total_Budget,Per_Country,Budget_Percent,Cluster_Name,Cluster_Short,Priority,Allocation_Rationale
+0,41,250000000.0,6097560.975609756,25.0,Intermediate Development Profile,Intermediate Development,High,"Substantial development gaps remain in health, income, and socioeconomic conditions."
+1,31,20000000.0,645161.2903225806,2.0,High Development Profile,High Development,Very Low,Strongest overall human-development and socioeconomic profile; lowest development-assistance priority.
+2,44,450000000.0,10227272.727272727,45.0,High Development Vulnerability,High Development Vulnerability,Very High,"Most severe health, demographic, and economic vulnerabilities; highest priority for basic development and poverty-reduction interventions."
+3,27,80000000.0,2962962.962962963,8.0,Trade-Intensive Development Profile,Trade-Intensive,Medium,"Relatively strong development outcomes with very high trade integration; emphasis can be placed on resilience, diversification, and sustainable economic integration."
+4,24,200000000.0,8333333.333333333,20.0,Higher-Inflation Development Profile,Higher Inflation,High,"Relatively strong development indicators but substantial macroeconomic vulnerability, particularly high inflation and lower health expenditure."

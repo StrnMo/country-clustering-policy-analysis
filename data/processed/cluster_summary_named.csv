@@ -1,0 +1,6 @@
+cluster,Cluster_Name,Count,Percentage,Priority,Budget_%,Color
+0,Developing Economies with Moderate Human Development,41,24.6,High,25,#E74C3C
+1,Advanced Human Development Economies,31,18.6,Very Low,5,#2ECC71
+2,Severe Development Vulnerability,44,26.3,Very High,35,#C0392B
+3,Trade-Integrated Economies,27,16.2,Medium,15,#3498DB
+4,Economies with Macroeconomic Vulnerability,24,14.4,High,20,#F39C12

@@ -1,0 +1,168 @@
+country,cluster,Cluster_Name,Cluster_Short,Cluster_Color,Priority,Budget_%
+Afghanistan,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Albania,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Algeria,4,Higher-Inflation Development Profile,Higher Inflation,#F39C12,High,20
+Angola,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Antigua and Barbuda,3,Trade-Intensive Development Profile,Trade-Intensive,#3498DB,Medium,8
+Argentina,4,Higher-Inflation Development Profile,Higher Inflation,#F39C12,High,20
+Armenia,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Australia,1,High Development Profile,High Development,#2ECC71,Very Low,2
+Austria,1,High Development Profile,High Development,#2ECC71,Very Low,2
+Azerbaijan,4,Higher-Inflation Development Profile,Higher Inflation,#F39C12,High,20
+Bahamas,1,High Development Profile,High Development,#2ECC71,Very Low,2
+Bahrain,3,Trade-Intensive Development Profile,Trade-Intensive,#3498DB,Medium,8
+Bangladesh,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Barbados,1,High Development Profile,High Development,#2ECC71,Very Low,2
+Belarus,3,Trade-Intensive Development Profile,Trade-Intensive,#3498DB,Medium,8
+Belgium,3,Trade-Intensive Development Profile,Trade-Intensive,#3498DB,Medium,8
+Belize,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Benin,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Bhutan,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Bolivia,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Bosnia and Herzegovina,1,High Development Profile,High Development,#2ECC71,Very Low,2
+Botswana,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Brazil,4,Higher-Inflation Development Profile,Higher Inflation,#F39C12,High,20
+Brunei,4,Higher-Inflation Development Profile,Higher Inflation,#F39C12,High,20
+Bulgaria,3,Trade-Intensive Development Profile,Trade-Intensive,#3498DB,Medium,8
+Burkina Faso,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Burundi,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Cambodia,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Cameroon,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Canada,1,High Development Profile,High Development,#2ECC71,Very Low,2
+Cape Verde,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Central African Republic,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Chad,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Chile,1,High Development Profile,High Development,#2ECC71,Very Low,2
+China,4,Higher-Inflation Development Profile,Higher Inflation,#F39C12,High,20
+Colombia,4,Higher-Inflation Development Profile,Higher Inflation,#F39C12,High,20
+Comoros,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+"Congo, Dem. Rep.",2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+"Congo, Rep.",0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Costa Rica,1,High Development Profile,High Development,#2ECC71,Very Low,2
+Cote d'Ivoire,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Croatia,1,High Development Profile,High Development,#2ECC71,Very Low,2
+Cyprus,3,Trade-Intensive Development Profile,Trade-Intensive,#3498DB,Medium,8
+Czech Republic,3,Trade-Intensive Development Profile,Trade-Intensive,#3498DB,Medium,8
+Denmark,1,High Development Profile,High Development,#2ECC71,Very Low,2
+Dominican Republic,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Ecuador,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Egypt,4,Higher-Inflation Development Profile,Higher Inflation,#F39C12,High,20
+El Salvador,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Equatorial Guinea,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Eritrea,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Estonia,3,Trade-Intensive Development Profile,Trade-Intensive,#3498DB,Medium,8
+Fiji,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Finland,1,High Development Profile,High Development,#2ECC71,Very Low,2
+France,1,High Development Profile,High Development,#2ECC71,Very Low,2
+Gabon,4,Higher-Inflation Development Profile,Higher Inflation,#F39C12,High,20
+Gambia,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Georgia,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Germany,1,High Development Profile,High Development,#2ECC71,Very Low,2
+Ghana,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Greece,1,High Development Profile,High Development,#2ECC71,Very Low,2
+Grenada,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Guatemala,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Guinea,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Guinea-Bissau,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Guyana,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Haiti,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Hungary,3,Trade-Intensive Development Profile,Trade-Intensive,#3498DB,Medium,8
+Iceland,1,High Development Profile,High Development,#2ECC71,Very Low,2
+India,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Indonesia,4,Higher-Inflation Development Profile,Higher Inflation,#F39C12,High,20
+Iran,4,Higher-Inflation Development Profile,Higher Inflation,#F39C12,High,20
+Iraq,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Ireland,3,Trade-Intensive Development Profile,Trade-Intensive,#3498DB,Medium,8
+Israel,1,High Development Profile,High Development,#2ECC71,Very Low,2
+Italy,1,High Development Profile,High Development,#2ECC71,Very Low,2
+Jamaica,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Japan,1,High Development Profile,High Development,#2ECC71,Very Low,2
+Jordan,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Kazakhstan,4,Higher-Inflation Development Profile,Higher Inflation,#F39C12,High,20
+Kenya,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Kiribati,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Kuwait,4,Higher-Inflation Development Profile,Higher Inflation,#F39C12,High,20
+Kyrgyz Republic,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Lao,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Latvia,3,Trade-Intensive Development Profile,Trade-Intensive,#3498DB,Medium,8
+Lebanon,3,Trade-Intensive Development Profile,Trade-Intensive,#3498DB,Medium,8
+Lesotho,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Liberia,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Libya,4,Higher-Inflation Development Profile,Higher Inflation,#F39C12,High,20
+Lithuania,3,Trade-Intensive Development Profile,Trade-Intensive,#3498DB,Medium,8
+Luxembourg,3,Trade-Intensive Development Profile,Trade-Intensive,#3498DB,Medium,8
+"Macedonia, FYR",3,Trade-Intensive Development Profile,Trade-Intensive,#3498DB,Medium,8
+Madagascar,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Malawi,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Malaysia,3,Trade-Intensive Development Profile,Trade-Intensive,#3498DB,Medium,8
+Maldives,3,Trade-Intensive Development Profile,Trade-Intensive,#3498DB,Medium,8
+Mali,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Malta,3,Trade-Intensive Development Profile,Trade-Intensive,#3498DB,Medium,8
+Mauritania,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Mauritius,3,Trade-Intensive Development Profile,Trade-Intensive,#3498DB,Medium,8
+"Micronesia, Fed. Sts.",0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Moldova,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Mongolia,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Montenegro,3,Trade-Intensive Development Profile,Trade-Intensive,#3498DB,Medium,8
+Morocco,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Mozambique,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Myanmar,4,Higher-Inflation Development Profile,Higher Inflation,#F39C12,High,20
+Namibia,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Nepal,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Netherlands,1,High Development Profile,High Development,#2ECC71,Very Low,2
+New Zealand,1,High Development Profile,High Development,#2ECC71,Very Low,2
+Niger,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Nigeria,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Norway,1,High Development Profile,High Development,#2ECC71,Very Low,2
+Oman,4,Higher-Inflation Development Profile,Higher Inflation,#F39C12,High,20
+Pakistan,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Panama,3,Trade-Intensive Development Profile,Trade-Intensive,#3498DB,Medium,8
+Paraguay,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Peru,4,Higher-Inflation Development Profile,Higher Inflation,#F39C12,High,20
+Philippines,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Poland,1,High Development Profile,High Development,#2ECC71,Very Low,2
+Portugal,1,High Development Profile,High Development,#2ECC71,Very Low,2
+Qatar,4,Higher-Inflation Development Profile,Higher Inflation,#F39C12,High,20
+Romania,4,Higher-Inflation Development Profile,Higher Inflation,#F39C12,High,20
+Russia,4,Higher-Inflation Development Profile,Higher Inflation,#F39C12,High,20
+Rwanda,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Samoa,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Saudi Arabia,4,Higher-Inflation Development Profile,Higher Inflation,#F39C12,High,20
+Senegal,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Serbia,1,High Development Profile,High Development,#2ECC71,Very Low,2
+Seychelles,3,Trade-Intensive Development Profile,Trade-Intensive,#3498DB,Medium,8
+Sierra Leone,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Singapore,3,Trade-Intensive Development Profile,Trade-Intensive,#3498DB,Medium,8
+Slovak Republic,3,Trade-Intensive Development Profile,Trade-Intensive,#3498DB,Medium,8
+Slovenia,3,Trade-Intensive Development Profile,Trade-Intensive,#3498DB,Medium,8
+Solomon Islands,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+South Africa,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+South Korea,1,High Development Profile,High Development,#2ECC71,Very Low,2
+Spain,1,High Development Profile,High Development,#2ECC71,Very Low,2
+Sri Lanka,4,Higher-Inflation Development Profile,Higher Inflation,#F39C12,High,20
+St. Vincent and the Grenadines,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Sudan,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Suriname,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Sweden,1,High Development Profile,High Development,#2ECC71,Very Low,2
+Switzerland,1,High Development Profile,High Development,#2ECC71,Very Low,2
+Tajikistan,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Tanzania,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Thailand,3,Trade-Intensive Development Profile,Trade-Intensive,#3498DB,Medium,8
+Timor-Leste,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Togo,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Tonga,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Tunisia,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Turkey,4,Higher-Inflation Development Profile,Higher Inflation,#F39C12,High,20
+Turkmenistan,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Uganda,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Ukraine,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+United Arab Emirates,3,Trade-Intensive Development Profile,Trade-Intensive,#3498DB,Medium,8
+United Kingdom,1,High Development Profile,High Development,#2ECC71,Very Low,2
+United States,1,High Development Profile,High Development,#2ECC71,Very Low,2
+Uruguay,1,High Development Profile,High Development,#2ECC71,Very Low,2
+Uzbekistan,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Vanuatu,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Venezuela,4,Higher-Inflation Development Profile,Higher Inflation,#F39C12,High,20
+Vietnam,0,Intermediate Development Profile,Intermediate Development,#E74C3C,High,25
+Yemen,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45
+Zambia,2,High Development Vulnerability,High Development Vulnerability,#C0392B,Very High,45

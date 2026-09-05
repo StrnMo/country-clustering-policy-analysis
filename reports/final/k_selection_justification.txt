@@ -1,0 +1,49 @@
+FINAL CLUSTER SELECTION: k=5
+============================================================
+
+
+The five-cluster solution provides a useful level of granularity for 
+distinguishing multidimensional socioeconomic profiles while remaining 
+manageable for interpretation and policy communication.
+
+1. CLUSTER BALANCE:
+   • k=5: Cluster sizes range from 10 to 57 countries
+   • k=4: The largest cluster contains 77 countries, potentially combining
+     relatively heterogeneous socioeconomic profiles
+   • k=6: The smallest clusters contain only 6 countries, making some
+     profiles less robust and harder to interpret
+   • k=7: One cluster contains only 4 countries, creating an overly
+     granular solution
+
+2. MULTIDIMENSIONAL INTERPRETABILITY:
+   • k=5 provides five distinguishable socioeconomic profiles
+   • k=4 may oversimplify some differences between country profiles
+   • k=6 and k=7 introduce smaller and more specific groups
+   • Five profiles provide a practical balance between detail and clarity
+
+3. PRACTICAL APPLICABILITY:
+   • Five clusters are manageable for policy analysis and communication
+   • Each k=5 cluster contains at least 10 countries
+   • Budget allocation and cluster-specific recommendations can be
+     communicated more clearly using five groups
+   • The resulting profiles can be interpreted as descriptive
+     socioeconomic groupings rather than rigid development categories
+
+4. TRADE-OFF BETWEEN VALIDATION METRICS AND INTERPRETABILITY:
+   • No single value of k dominates across all validation metrics
+   • k=4 achieves the highest Silhouette and Calinski-Harabasz scores
+   • k=6 achieves the lowest Davies-Bouldin score
+   • k=5 provides a balanced solution with reasonable cluster sizes,
+     strong interpretability, and practical policy applicability
+   • Therefore, k=5 was selected as a pragmatic compromise between
+     statistical validation, cluster size, interpretability, and
+     policy usefulness
+
+5. INTERPRETATION OF THE FINAL CLUSTERS:
+   • The resulting clusters are descriptive socioeconomic profiles
+   • Labels such as Low-Development Profile, Developing-Economy Profile,
+     High-Income Trade-Oriented Profile, Emerging-Economy Profile, and
+     Advanced-Economy Profile are interpretations of the observed
+     multidimensional patterns
+   • These labels are not intended to reproduce or replace official
+     World Bank, IMF, or UN classifications

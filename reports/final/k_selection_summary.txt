@@ -1,0 +1,10 @@
+OPTIMAL NUMBER OF CLUSTERS SELECTION
+============================================================
+Selected k: 5
+
+Metrics for selected k:
+  Silhouette Score: 0.2460
+  Calinski-Harabasz: 57.60
+  Davies-Bouldin: 1.2836
+  Smallest Cluster: 10
+  Largest Cluster: 57

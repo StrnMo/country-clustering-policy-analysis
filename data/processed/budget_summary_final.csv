@@ -1,0 +1,6 @@
+Cluster,Cluster_Name,Count,Total_Budget,Mean_Budget,Min_Budget,Max_Budget,% of Total
+0,Low-Development Profile,57,350000000.0,6140350.88,6140350.88,6140350.88,35.0
+1,Developing-Economy Profile,42,250000000.0,5952380.95,5952380.95,5952380.95,25.0
+2,High-Income Trade-Oriented Profile,10,200000000.0,20000000.0,20000000.0,20000000.0,20.0
+3,Emerging-Economy Profile,36,150000000.0,4166666.67,4166666.67,4166666.67,15.0
+4,Advanced-Economy Profile,22,50000000.0,2272727.27,2272727.27,2272727.27,5.0

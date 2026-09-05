@@ -1,0 +1,168 @@
+Cluster_ID,Cluster_Name,Cluster_Short,Country,Priority,Budget_Share_%
+0,Intermediate Development Profile,Intermediate Development,Albania,High,25.0
+0,Intermediate Development Profile,Intermediate Development,Armenia,High,25.0
+0,Intermediate Development Profile,Intermediate Development,Belize,High,25.0
+0,Intermediate Development Profile,Intermediate Development,Bhutan,High,25.0
+0,Intermediate Development Profile,Intermediate Development,Bolivia,High,25.0
+0,Intermediate Development Profile,Intermediate Development,Botswana,High,25.0
+0,Intermediate Development Profile,Intermediate Development,Cambodia,High,25.0
+0,Intermediate Development Profile,Intermediate Development,Cape Verde,High,25.0
+0,Intermediate Development Profile,Intermediate Development,"Congo, Rep.",High,25.0
+0,Intermediate Development Profile,Intermediate Development,Dominican Republic,High,25.0
+0,Intermediate Development Profile,Intermediate Development,Ecuador,High,25.0
+0,Intermediate Development Profile,Intermediate Development,El Salvador,High,25.0
+0,Intermediate Development Profile,Intermediate Development,Equatorial Guinea,High,25.0
+0,Intermediate Development Profile,Intermediate Development,Fiji,High,25.0
+0,Intermediate Development Profile,Intermediate Development,Georgia,High,25.0
+0,Intermediate Development Profile,Intermediate Development,Grenada,High,25.0
+0,Intermediate Development Profile,Intermediate Development,Guatemala,High,25.0
+0,Intermediate Development Profile,Intermediate Development,Guyana,High,25.0
+0,Intermediate Development Profile,Intermediate Development,Iraq,High,25.0
+0,Intermediate Development Profile,Intermediate Development,Jamaica,High,25.0
+0,Intermediate Development Profile,Intermediate Development,Jordan,High,25.0
+0,Intermediate Development Profile,Intermediate Development,Kyrgyz Republic,High,25.0
+0,Intermediate Development Profile,Intermediate Development,"Micronesia, Fed. Sts.",High,25.0
+0,Intermediate Development Profile,Intermediate Development,Moldova,High,25.0
+0,Intermediate Development Profile,Intermediate Development,Mongolia,High,25.0
+0,Intermediate Development Profile,Intermediate Development,Morocco,High,25.0
+0,Intermediate Development Profile,Intermediate Development,Namibia,High,25.0
+0,Intermediate Development Profile,Intermediate Development,Paraguay,High,25.0
+0,Intermediate Development Profile,Intermediate Development,Philippines,High,25.0
+0,Intermediate Development Profile,Intermediate Development,Samoa,High,25.0
+0,Intermediate Development Profile,Intermediate Development,Solomon Islands,High,25.0
+0,Intermediate Development Profile,Intermediate Development,South Africa,High,25.0
+0,Intermediate Development Profile,Intermediate Development,St. Vincent and the Grenadines,High,25.0
+0,Intermediate Development Profile,Intermediate Development,Suriname,High,25.0
+0,Intermediate Development Profile,Intermediate Development,Tonga,High,25.0
+0,Intermediate Development Profile,Intermediate Development,Tunisia,High,25.0
+0,Intermediate Development Profile,Intermediate Development,Turkmenistan,High,25.0
+0,Intermediate Development Profile,Intermediate Development,Ukraine,High,25.0
+0,Intermediate Development Profile,Intermediate Development,Uzbekistan,High,25.0
+0,Intermediate Development Profile,Intermediate Development,Vanuatu,High,25.0
+0,Intermediate Development Profile,Intermediate Development,Vietnam,High,25.0
+1,High Development Profile,High Development,Australia,Very Low,2.0
+1,High Development Profile,High Development,Austria,Very Low,2.0
+1,High Development Profile,High Development,Bahamas,Very Low,2.0
+1,High Development Profile,High Development,Barbados,Very Low,2.0
+1,High Development Profile,High Development,Bosnia and Herzegovina,Very Low,2.0
+1,High Development Profile,High Development,Canada,Very Low,2.0
+1,High Development Profile,High Development,Chile,Very Low,2.0
+1,High Development Profile,High Development,Costa Rica,Very Low,2.0
+1,High Development Profile,High Development,Croatia,Very Low,2.0
+1,High Development Profile,High Development,Denmark,Very Low,2.0
+1,High Development Profile,High Development,Finland,Very Low,2.0
+1,High Development Profile,High Development,France,Very Low,2.0
+1,High Development Profile,High Development,Germany,Very Low,2.0
+1,High Development Profile,High Development,Greece,Very Low,2.0
+1,High Development Profile,High Development,Iceland,Very Low,2.0
+1,High Development Profile,High Development,Israel,Very Low,2.0
+1,High Development Profile,High Development,Italy,Very Low,2.0
+1,High Development Profile,High Development,Japan,Very Low,2.0
+1,High Development Profile,High Development,Netherlands,Very Low,2.0
+1,High Development Profile,High Development,New Zealand,Very Low,2.0
+1,High Development Profile,High Development,Norway,Very Low,2.0
+1,High Development Profile,High Development,Poland,Very Low,2.0
+1,High Development Profile,High Development,Portugal,Very Low,2.0
+1,High Development Profile,High Development,Serbia,Very Low,2.0
+1,High Development Profile,High Development,South Korea,Very Low,2.0
+1,High Development Profile,High Development,Spain,Very Low,2.0
+1,High Development Profile,High Development,Sweden,Very Low,2.0
+1,High Development Profile,High Development,Switzerland,Very Low,2.0
+1,High Development Profile,High Development,United Kingdom,Very Low,2.0
+1,High Development Profile,High Development,United States,Very Low,2.0
+1,High Development Profile,High Development,Uruguay,Very Low,2.0
+2,High Development Vulnerability,High Development Vulnerability,Afghanistan,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Angola,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Bangladesh,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Benin,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Burkina Faso,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Burundi,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Cameroon,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Central African Republic,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Chad,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Comoros,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,"Congo, Dem. Rep.",Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Cote d'Ivoire,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Eritrea,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Gambia,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Ghana,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Guinea,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Guinea-Bissau,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Haiti,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,India,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Kenya,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Kiribati,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Lao,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Lesotho,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Liberia,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Madagascar,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Malawi,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Mali,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Mauritania,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Mozambique,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Nepal,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Niger,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Nigeria,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Pakistan,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Rwanda,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Senegal,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Sierra Leone,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Sudan,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Tajikistan,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Tanzania,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Timor-Leste,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Togo,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Uganda,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Yemen,Very High,45.0
+2,High Development Vulnerability,High Development Vulnerability,Zambia,Very High,45.0
+3,Trade-Intensive Development Profile,Trade-Intensive,Antigua and Barbuda,Medium,8.0
+3,Trade-Intensive Development Profile,Trade-Intensive,Bahrain,Medium,8.0
+3,Trade-Intensive Development Profile,Trade-Intensive,Belarus,Medium,8.0
+3,Trade-Intensive Development Profile,Trade-Intensive,Belgium,Medium,8.0
+3,Trade-Intensive Development Profile,Trade-Intensive,Bulgaria,Medium,8.0
+3,Trade-Intensive Development Profile,Trade-Intensive,Cyprus,Medium,8.0
+3,Trade-Intensive Development Profile,Trade-Intensive,Czech Republic,Medium,8.0
+3,Trade-Intensive Development Profile,Trade-Intensive,Estonia,Medium,8.0
+3,Trade-Intensive Development Profile,Trade-Intensive,Hungary,Medium,8.0
+3,Trade-Intensive Development Profile,Trade-Intensive,Ireland,Medium,8.0
+3,Trade-Intensive Development Profile,Trade-Intensive,Latvia,Medium,8.0
+3,Trade-Intensive Development Profile,Trade-Intensive,Lebanon,Medium,8.0
+3,Trade-Intensive Development Profile,Trade-Intensive,Lithuania,Medium,8.0
+3,Trade-Intensive Development Profile,Trade-Intensive,Luxembourg,Medium,8.0
+3,Trade-Intensive Development Profile,Trade-Intensive,"Macedonia, FYR",Medium,8.0
+3,Trade-Intensive Development Profile,Trade-Intensive,Malaysia,Medium,8.0
+3,Trade-Intensive Development Profile,Trade-Intensive,Maldives,Medium,8.0
+3,Trade-Intensive Development Profile,Trade-Intensive,Malta,Medium,8.0
+3,Trade-Intensive Development Profile,Trade-Intensive,Mauritius,Medium,8.0
+3,Trade-Intensive Development Profile,Trade-Intensive,Montenegro,Medium,8.0
+3,Trade-Intensive Development Profile,Trade-Intensive,Panama,Medium,8.0
+3,Trade-Intensive Development Profile,Trade-Intensive,Seychelles,Medium,8.0
+3,Trade-Intensive Development Profile,Trade-Intensive,Singapore,Medium,8.0
+3,Trade-Intensive Development Profile,Trade-Intensive,Slovak Republic,Medium,8.0
+3,Trade-Intensive Development Profile,Trade-Intensive,Slovenia,Medium,8.0
+3,Trade-Intensive Development Profile,Trade-Intensive,Thailand,Medium,8.0
+3,Trade-Intensive Development Profile,Trade-Intensive,United Arab Emirates,Medium,8.0
+4,Higher-Inflation Development Profile,Higher Inflation,Algeria,High,20.0
+4,Higher-Inflation Development Profile,Higher Inflation,Argentina,High,20.0
+4,Higher-Inflation Development Profile,Higher Inflation,Azerbaijan,High,20.0
+4,Higher-Inflation Development Profile,Higher Inflation,Brazil,High,20.0
+4,Higher-Inflation Development Profile,Higher Inflation,Brunei,High,20.0
+4,Higher-Inflation Development Profile,Higher Inflation,China,High,20.0
+4,Higher-Inflation Development Profile,Higher Inflation,Colombia,High,20.0
+4,Higher-Inflation Development Profile,Higher Inflation,Egypt,High,20.0
+4,Higher-Inflation Development Profile,Higher Inflation,Gabon,High,20.0
+4,Higher-Inflation Development Profile,Higher Inflation,Indonesia,High,20.0
+4,Higher-Inflation Development Profile,Higher Inflation,Iran,High,20.0
+4,Higher-Inflation Development Profile,Higher Inflation,Kazakhstan,High,20.0
+4,Higher-Inflation Development Profile,Higher Inflation,Kuwait,High,20.0
+4,Higher-Inflation Development Profile,Higher Inflation,Libya,High,20.0
+4,Higher-Inflation Development Profile,Higher Inflation,Myanmar,High,20.0
+4,Higher-Inflation Development Profile,Higher Inflation,Oman,High,20.0
+4,Higher-Inflation Development Profile,Higher Inflation,Peru,High,20.0
+4,Higher-Inflation Development Profile,Higher Inflation,Qatar,High,20.0
+4,Higher-Inflation Development Profile,Higher Inflation,Romania,High,20.0
+4,Higher-Inflation Development Profile,Higher Inflation,Russia,High,20.0
+4,Higher-Inflation Development Profile,Higher Inflation,Saudi Arabia,High,20.0
+4,Higher-Inflation Development Profile,Higher Inflation,Sri Lanka,High,20.0
+4,Higher-Inflation Development Profile,Higher Inflation,Turkey,High,20.0
+4,Higher-Inflation Development Profile,Higher Inflation,Venezuela,High,20.0

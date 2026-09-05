@@ -1,0 +1,6 @@
+,Cluster,Count,Income_Mean,Income_Std,GDP_Mean,GDP_Std,LifeExp_Mean,LifeExp_Std,ChildMort_Mean,ChildMort_Std,Inflation_Mean,Inflation_Std,Fertility_Mean,Fertility_Std
+0,Upper-Middle Development Profile,57,13869.0,8000.0,8340.0,6699.0,73.6,4.3,16.8,11.9,3.92,4.05,2.11,0.74
+1,Low Development Profile,42,3500.0,5502.0,1768.0,2899.0,58.5,6.4,96.8,32.7,11.56,16.29,5.09,1.07
+2,Trade-Oriented High-Income Economies,10,66260.0,28729.0,44050.0,26470.0,78.8,2.4,7.6,3.3,7.46,6.58,1.92,0.49
+3,Lower-Middle Development Profile,36,10628.0,8244.0,4972.0,4274.0,71.2,4.3,33.3,18.8,13.38,9.04,2.76,0.85
+4,Advanced High-Income Economies,22,40018.0,8359.0,45268.0,14734.0,80.9,1.0,4.3,1.1,1.54,1.78,1.8,0.39

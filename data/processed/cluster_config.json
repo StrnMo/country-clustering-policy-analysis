@@ -1,0 +1,51 @@
+{
+  "CLUSTER_NAMES": {
+    "0": "Developing Economies with Moderate Human Development",
+    "1": "Advanced Human Development Economies",
+    "2": "Severe Development Vulnerability",
+    "3": "Trade-Integrated Economies",
+    "4": "Economies with Macroeconomic Vulnerability"
+  },
+  "CLUSTER_SHORT_NAMES": {
+    "0": "Moderate Development",
+    "1": "Advanced Development",
+    "2": "Severe Vulnerability",
+    "3": "Trade-Integrated",
+    "4": "Macro Vulnerability"
+  },
+  "CLUSTER_LABELS": {
+    "0": "Moderate Dev.",
+    "1": "Advanced Dev.",
+    "2": "Vulnerability",
+    "3": "Trade-Integrated",
+    "4": "Macro Vulnerab."
+  },
+  "CLUSTER_PRIORITY": {
+    "Developing Economies with Moderate Human Development": "High",
+    "Advanced Human Development Economies": "Very Low",
+    "Severe Development Vulnerability": "Very High",
+    "Trade-Integrated Economies": "Medium",
+    "Economies with Macroeconomic Vulnerability": "High"
+  },
+  "CLUSTER_BUDGET": {
+    "Developing Economies with Moderate Human Development": 25,
+    "Advanced Human Development Economies": 5,
+    "Severe Development Vulnerability": 35,
+    "Trade-Integrated Economies": 15,
+    "Economies with Macroeconomic Vulnerability": 20
+  },
+  "CLUSTER_COLORS": {
+    "Developing Economies with Moderate Human Development": "#E74C3C",
+    "Advanced Human Development Economies": "#2ECC71",
+    "Severe Development Vulnerability": "#C0392B",
+    "Trade-Integrated Economies": "#3498DB",
+    "Economies with Macroeconomic Vulnerability": "#F39C12"
+  },
+  "CLUSTER_DESCRIPTIONS": {
+    "Developing Economies with Moderate Human Development": "Countries with moderate human-development outcomes. They have substantially better health and economic indicators than the most vulnerable group, with child mortality at 32.3 per 1,000, life expectancy at 69.2 years, and income of approximately $7,958. These economies have progressed beyond extreme poverty but still face significant development challenges requiring targeted interventions in healthcare, education, infrastructure, and economic development.",
+    "Advanced Human Development Economies": "Countries with advanced socioeconomic and human-development outcomes. This cluster has the strongest overall profile in the dataset, characterized by very low child mortality (5.7 per 1,000), high life expectancy (79.7 years), high income ($32,959), high GDP per capita ($35,055), and relatively low inflation (2.1%). Policy emphasis may therefore shift from basic development needs toward sustainability, innovation, social protection, and long-term resilience.",
+    "Severe Development Vulnerability": "Countries with the highest level of development vulnerability in the dataset. This cluster is characterized by very high child mortality (94.1 per 1,000), low life expectancy (59.9 years), very low income ($2,170), very low GDP per capita ($952), and high fertility (4.97 births per woman). These characteristics indicate substantial health, demographic, and economic development challenges and justify the highest priority for basic healthcare, education, infrastructure, and poverty-reduction interventions.",
+    "Trade-Integrated Economies": "Countries characterized by exceptionally high trade intensity, with exports averaging 77.5% and imports 76.9% of GDP. These economies also demonstrate relatively strong health outcomes, high income, low fertility, and low inflation. Their distinctive profile suggests a high degree of integration into international trade networks, making trade resilience, diversification, and sustainable economic integration important policy considerations.",
+    "Economies with Macroeconomic Vulnerability": "Countries with relatively strong income and moderate human-development outcomes but a distinctive macroeconomic vulnerability characterized primarily by high inflation. The cluster has an average income of $27,186, life expectancy of 73.8 years, child mortality of 22.1 per 1,000, and inflation of 14.0%, the highest among the five clusters. Policy priorities may therefore include macroeconomic stabilization alongside continued investment in health and social development."
+  }
+}

@@ -1,0 +1,43 @@
+DATA-DRIVEN POLICY RECOMMENDATIONS
+================================================================================
+
+
+Upper-Middle Development Profile
+------------------------------------------------------------
+Countries in this cluster generally exhibit moderate income levels, relatively low child mortality, increasing life expectancy, and stable macroeconomic indicators.
+
+1. With average income of $13,869, this cluster is in a transition phase. Investment should focus on economic diversification, workforce development, and strengthening institutions to support continued growth and poverty reduction.
+
+
+Low Development Profile
+------------------------------------------------------------
+Countries in this cluster face significant development challenges including high child mortality, low life expectancy, and limited economic resources, requiring substantial investment in basic infrastructure and human capital.
+
+1. Countries in this cluster exhibit the highest child mortality (96.8 deaths per 1,000 births) and the lowest life expectancy (58.5 years), suggesting that investments in primary healthcare, maternal health, vaccination programs, and child nutrition should receive the highest funding priority.
+2. The average income in this cluster is $3,500, substantially below the global average. Budget allocation should emphasize economic development, poverty reduction, basic infrastructure, and education to create sustainable livelihoods and reduce dependency on foreign aid.
+3. Compared with other clusters, this cluster experiences relatively high inflation (11.6%) while maintaining moderate income levels. Budget allocation should emphasize macroeconomic stabilization alongside investments in healthcare and education to address the root causes of economic instability.
+
+
+Trade-Oriented High-Income Economies
+------------------------------------------------------------
+This cluster consists of small, high-income economies with exceptionally high export intensity, strong economic performance, and high income levels.
+
+1. At $66,260 average income, this cluster has achieved high levels of economic development. Budget priorities should shift to sustainable development, innovation, green technology, and addressing inequality to maintain social cohesion.
+2. Inflation at 7.5% indicates some economic vulnerability. Policy should focus on monetary stability, fiscal discipline, and targeted social protection programs to shield vulnerable populations from price shocks.
+
+
+Lower-Middle Development Profile
+------------------------------------------------------------
+Countries in this cluster are transitioning from low to moderate development, with improving health outcomes and growing economies, though they still face challenges with inflation and infrastructure gaps.
+
+1. With child mortality at 33.3 per 1,000 births and life expectancy at 71.2 years, this cluster requires continued investment in healthcare infrastructure, vaccination coverage, and maternal health services to maintain progress toward development goals.
+2. With average income of $10,628, this cluster is in a transition phase. Investment should focus on economic diversification, workforce development, and strengthening institutions to support continued growth and poverty reduction.
+3. Compared with other clusters, this cluster experiences relatively high inflation (13.4%) while maintaining moderate income levels. Budget allocation should emphasize macroeconomic stabilization alongside investments in healthcare and education to address the root causes of economic instability.
+
+
+Advanced High-Income Economies
+------------------------------------------------------------
+This cluster includes mature developed economies characterized by high life expectancy, very low child mortality, high health expenditure, and strong economic capacity.
+
+1. At $40,018 average income, this cluster has achieved high levels of economic development. Budget priorities should shift to sustainable development, innovation, green technology, and addressing inequality to maintain social cohesion.
+
